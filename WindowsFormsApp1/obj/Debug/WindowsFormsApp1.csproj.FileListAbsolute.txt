@@ -1,0 +1,16 @@
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dt045020\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ipset.exe
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ipset.pdb
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ipset.Properties.Resources.resources
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ipset.exe
+D:\01 아산공장업무\999. 기타\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ipset.pdb
